@@ -60,8 +60,9 @@ Depois acesse `http://localhost:8000` no navegador. A partir daí, os links da l
 
 ## Versões publicadas
 
-- Bootstrap: `[PREENCHER: link do GitHub Pages]`
-- Bulma: `[PREENCHER: link do GitHub Pages]`
+- Landing: https://diego-codev.github.io/pagina-pessoal/
+- Bootstrap: https://diego-codev.github.io/pagina-pessoal/bootstrap/
+- Bulma: https://diego-codev.github.io/pagina-pessoal/bulma/
 
 ## Comparação entre os frameworks
 
